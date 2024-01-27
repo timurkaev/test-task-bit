@@ -1,3 +1,6 @@
 .app.light {
   --body-bg: #f1f3ea;
+  --block-color: #e7d7da;
+  --tag-color: #cecece;
+  --text-color: #000000;
 }

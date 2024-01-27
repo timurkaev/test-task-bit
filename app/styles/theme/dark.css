@@ -1,6 +1,6 @@
 .app.dark {
   --body-bg: #0e0c15;
-  --darktheme-gray: #121825;
-  --darktheme-gray-light: #222b44;
-  --darktheme-text-color: #ffffff;
+  --block-color: #121825;
+  --tag-color: #222b44;
+  --text-color: #ffffff;
 }
